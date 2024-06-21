@@ -1,4 +1,7 @@
 1. rename your downloaded Isekaid csv file to "equipment.csv"
 2. put the python file in the same folder as equipment.csv
 3. run python file
+3a. open command prompt in the folder
+3b. type: python process_stats.py
+3c. hit enter
 4. you will now have a csv file called "equipment_processed.csv"
