@@ -1,0 +1,4 @@
+1. rename your downloaded Isekaid csv file to "equipment.csv"
+2. put the python file in the same folder as equipment.csv
+3. run python file
+4. you will now have a csv file called "equipment_processed.csv"
