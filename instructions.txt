@@ -1,10 +1,5 @@
-0. you only have to do this once, open command prompt
-0a. type: pip install pandas
-------------------------------------------------------------
-1. rename your downloaded Isekaid csv file to "equipment.csv"
-2. put the python file in the same folder as equipment.csv
-3. run python file
-3a. open command prompt in the folder
-3b. type: python process_stats.py
-3c. hit enter
-4. you will now have a csv file called "equipment_processed.csv"
+1.run exe file
+2.select your Isekaid csv file
+3.select the folder you want the new csv file to export to
+4.you can choose to export all stats, or minimal stats for clearer oversight
+5.happy fusing! :)
