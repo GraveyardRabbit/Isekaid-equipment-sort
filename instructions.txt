@@ -1,3 +1,6 @@
+0. you only have to do this once, open command prompt
+0a. type: pip install pandas
+------------------------------------------------------------
 1. rename your downloaded Isekaid csv file to "equipment.csv"
 2. put the python file in the same folder as equipment.csv
 3. run python file
