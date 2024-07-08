@@ -1,5 +1,0 @@
-1.run exe file
-2.select your Isekaid csv file
-3.select the folder you want the new csv file to export to
-4.you can choose to export all stats, or minimal stats for clearer oversight
-5.happy fusing! :)
